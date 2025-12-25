@@ -1,0 +1,5 @@
+learning_rate: 0.001
+num_classes: 35
+optimizer: adam
+scheduler: reduce_on_plateau
+weight_decay: 0.0001

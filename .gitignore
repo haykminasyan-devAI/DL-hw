@@ -28,12 +28,12 @@ env/
 *.pth
 *.pt
 
-# Training outputs
-checkpoints/
-results/
-lightning_logs/
-*.log
-training.log
+# Training outputs (commented out to include in repo)
+# checkpoints/
+# results/
+# lightning_logs/
+# *.log
+# training.log
 
 # Dataset files (audio)
 *.wav
